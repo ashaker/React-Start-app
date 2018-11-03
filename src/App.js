@@ -9,10 +9,7 @@ class App extends Component {
         <header className="App-header">
          Book Genie
         </header>
-       
           <Books />
-        
-        
       </div>
     );
   }
